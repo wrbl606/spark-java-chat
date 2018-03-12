@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Class-Path: /home/marcin/.gradle/caches/modules-2/files-2.1/com.sparkj
+ ava/spark-core/2.7.2/b832cca2704a96c027424efafec3fe39392f5aab/spark-c
+ ore-2.7.2.jar /home/marcin/.gradle/caches/modules-2/files-2.1/com.j2h
+ tml/j2html/1.2.2/3d8dd98a3db5fa7fc341dd4c8f98d6a850fd93b0/j2html-1.2.
+ 2.jar /home/marcin/.gradle/caches/modules-2/files-2.1/org.json/json/2
+ 0160810/aca5eb39e2a12fddd6c472b240afe9ebea3a6733/json-20160810.jar /h
+ ome/marcin/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/
+ 1.7.21/be4b3c560a37e69b6c58278116740db28832232c/slf4j-simple-1.7.21.j
+ ar /home/marcin/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-ap
+ i/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.ja
+ r /home/marcin/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/j
+ etty-webapp/9.4.8.v20171121/695278449233cee9bae9eed930a5264b574774f0/
+ jetty-webapp-9.4.8.v20171121.jar /home/marcin/.gradle/caches/modules-
+ 2/files-2.1/org.eclipse.jetty.websocket/websocket-server/9.4.8.v20171
+ 121/c6ae10f65664d90e24dede5dec23098f5f4c3a58/websocket-server-9.4.8.v
+ 20171121.jar /home/marcin/.gradle/caches/modules-2/files-2.1/org.ecli
+ pse.jetty/jetty-servlet/9.4.8.v20171121/bbbb9b5de08f468c7b9b3de6aea0b
+ 098d2c679b6/jetty-servlet-9.4.8.v20171121.jar /home/marcin/.gradle/ca
+ ches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.8.v2017
+ 1121/e8350eec683b55494287f06740543e4be6f75425/jetty-security-9.4.8.v2
+ 0171121.jar /home/marcin/.gradle/caches/modules-2/files-2.1/org.eclip
+ se.jetty/jetty-server/9.4.8.v20171121/34614bd9a29de57ef28ca31f1f2b49a
+ 412af196d/jetty-server-9.4.8.v20171121.jar /home/marcin/.gradle/cache
+ s/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-servlet/9
+ .4.8.v20171121/9061f66101a8654ae1a55a3336438473f1b00713/websocket-ser
+ vlet-9.4.8.v20171121.jar /home/marcin/.gradle/caches/modules-2/files-
+ 2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be5
+ 9432f4905bf7c/javax.servlet-api-3.1.0.jar /home/marcin/.gradle/caches
+ /modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4
+ .8.v20171121/f83fc3fbd52109a57d09b3ef88b715a36e8acdb4/websocket-clien
+ t-9.4.8.v20171121.jar /home/marcin/.gradle/caches/modules-2/files-2.1
+ /org.eclipse.jetty/jetty-client/9.4.8.v20171121/e93cac2ce46e81ee8b362
+ 88cf7e19d3bac82d536/jetty-client-9.4.8.v20171121.jar /home/marcin/.gr
+ adle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.8.v2
+ 0171121/9879d6c4e37400bf43f0cd4b3c6e34a3ba409864/jetty-http-9.4.8.v20
+ 171121.jar /home/marcin/.gradle/caches/modules-2/files-2.1/org.eclips
+ e.jetty.websocket/websocket-common/9.4.8.v20171121/82cd6d9caa68baf655
+ 7176159e6e5c37faed0e9b/websocket-common-9.4.8.v20171121.jar /home/mar
+ cin/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4
+ .8.v20171121/d3fe2dfa62f52ee91ff07cb359f63387e0e30b40/jetty-io-9.4.8.
+ v20171121.jar /home/marcin/.gradle/caches/modules-2/files-2.1/org.ecl
+ ipse.jetty/jetty-xml/9.4.8.v20171121/b0d6f87f580a9bd7fa9aaf9b7448bf63
+ cf0ac34f/jetty-xml-9.4.8.v20171121.jar /home/marcin/.gradle/caches/mo
+ dules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.8.v20
+ 171121/6d889f9a8b5fd2a573c6d1d518c7e119a6d8c170/websocket-api-9.4.8.v
+ 20171121.jar /home/marcin/.gradle/caches/modules-2/files-2.1/org.ecli
+ pse.jetty/jetty-util/9.4.8.v20171121/d6ec1a1613c7fa72aa6bf5d8c204750a
+ fbc3df3b/jetty-util-9.4.8.v20171121.jar
+Main-Class: Main
+
